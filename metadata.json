@@ -1,0 +1,6 @@
+{
+  "name": "Kumisi Lake Sanctuary Admin Portal & Conservation Hub",
+  "description": "Admin oversight dashboard and public conservation portal for Lake Kumisi Sanctuary, featuring real-time bird migration tracking, photo gallery manager, and blog editor previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
