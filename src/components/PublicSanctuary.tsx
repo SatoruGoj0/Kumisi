@@ -57,7 +57,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
             <img
               className="w-full h-full object-cover scale-105 transform transition-transform duration-1000"
               alt="Kumisi Lake panoramic dawn view"
-              src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1920&h=1080&fit=crop&q=80"
+              src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYpIPTf48mWJeNzkb50jFOVU7XEX7LDjs1eZpQ_ykGzDoLoO0Mv8dHfkFWWpdiRO5djhTLK2UD1-4_f8OdR2VU9Ksebu3ycSKWT5F5qfIQD30bklaeSaXggTmDNpvebfITMxlY=s1360-w1360-h1020-rw"
             />
             <div className="absolute inset-0 bg-gradient-to-b from-[#003527]/30 via-transparent to-[#f7f9fb]" />
           </div>
