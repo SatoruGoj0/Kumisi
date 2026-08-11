@@ -80,7 +80,7 @@ export const OrnithologyAiGuide: React.FC = () => {
           <div>
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#31c98f]/20 text-[#b0f0d6] text-xs font-bold border border-[#31c98f]/30 mb-3">
               <span className="material-symbols-outlined text-sm">auto_awesome</span>
-              OR NITHOLOGY AI GUIDE
+              ORNITHOLOGY AI GUIDE
             </div>
             <h2 className="font-headline-xl text-3xl md:text-4xl font-bold text-white">
               Ask Kumisi Sanctuary Assistant

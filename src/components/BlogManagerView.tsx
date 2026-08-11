@@ -49,7 +49,7 @@ export const BlogManagerView: React.FC<BlogManagerViewProps> = ({
         content: draft.content || 'Body text',
         category: draft.category || 'Conservation News',
         reads: '0 Reads',
-        image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDSy-9ncBoTMrv4-sF5JuYP3eciNJIDzW5nbOY5oEfKeIfJxX513QKO-c7fOVMiMRd2Wu1990C03loEF06Tur69xA6uJx0qqngjToSbHgDBctbOWrQsD4TvinGPMR4rZ5HI2uDKLEHMVk-aqAhypAwMND73qWjgTz41MhxnC8h_yYNtz9vRyibYmj5iJAPq9MpjTbYh70E_LXeEdU3Ksv66WvLEhnx70UiQjWFuOIMpObnBwHoXV7As',
+        image: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop&q=80',
         tag: draft.tag || 'AI Telemetry',
       };
 

@@ -57,7 +57,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
             <img
               className="w-full h-full object-cover scale-105 transform transition-transform duration-1000"
               alt="Kumisi Lake panoramic dawn view"
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuBDBGPzEMxWca3FYTB5ft76c_3EO_wtzPxNgdI6R1YAW3b68o_GCemdwVPfxOj7IHmYdkoVRwxIL8DxET14Xa6kOApIl2KTPBM12gDSgBsIyIRjSM_JcQQS03M9ZiEoASOtOcgO9xKlJ15mEXLNoX8AqZXTKSNzsSwmMLCwDOVowIlLTL0Sb3kTnJfU7RLr-0Tsdgj5eXxekP_cup56VSDlzdRCOtZZICU79PhsfAnFqfszzeFT3eku"
+              src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1920&h=1080&fit=crop&q=80"
             />
             <div className="absolute inset-0 bg-gradient-to-b from-[#003527]/30 via-transparent to-[#f7f9fb]" />
           </div>
@@ -190,17 +190,17 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                     {
                       title: '5 Benefits of Kumisi Mineral Mud',
                       reads: '1.2k Reads',
-                      img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAHxVAFV2TL_4GBGumJ28xtdtI9wt8FiTcSzbM5jGT_xSCvmuyuRTzNbNO9wOz7PJ7UtAm9QWkkVIEkhg7C2k5lJcllyhUu7ZHS53KLWeo75qrXkw7sMwMGUUnub7g0d45eCK-G6morPbqXkCFTjPHII3S3HqXdkzefeX8aCv10QJHrlAA18-EmKXpWzBeNbs7p5nVinycOXuLNevJqxddalrYClXMszccjFvKHdRTxGI4iMG13NGCh',
+                      img: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=200&h=200&fit=crop&q=80',
                     },
                     {
                       title: 'Identifying the Dalmatian Pelican',
                       reads: '980 Reads',
-                      img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDSy-9ncBoTMrv4-sF5JuYP3eciNJIDzW5nbOY5oEfKeIfJxX513QKO-c7fOVMiMRd2Wu1990C03loEF06Tur69xA6uJx0qqngjToSbHgDBctbOWrQsD4TvinGPMR4rZ5HI2uDKLEHMVk-aqAhypAwMND73qWjgTz41MhxnC8h_yYNtz9vRyibYmj5iJAPq9MpjTbYh70E_LXeEdU3Ksv66WvLEhnx70UiQjWFuOIMpObnBwHoXV7As',
+                      img: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=200&h=200&fit=crop&q=80',
                     },
                     {
                       title: 'Eco-Tourism: How to Visit Responsibly',
                       reads: '850 Reads',
-                      img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCYIPbNVv4i32qsL_v3qe0SIj-Y2uIZUvIPjvsNDPNrlts3D2DFret4qh4yI2IIFgGSXkPd3aTGEWewvfl2eQOsApROjke0dO20F5ei40-rCIPUqTercKtwyA_K50kNRkCTWcVHmejqq9pI-dqICl7sjdGiuD868ri4TwGbR7-IcaKOUBt08s-8SOAqlY2H6glG6dVBImVbaRIj-9O9B6dcA59N3dnYDvTAdbM6hmrb-xs_MUc3wv-s',
+                      img: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=200&h=200&fit=crop&q=80',
                     },
                   ].map((insight, idx) => (
                     <div
@@ -245,7 +245,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                   <div
                     className="absolute inset-0 bg-cover bg-center opacity-40 filter contrast-125 grayscale hover:grayscale-0 transition-all"
                     style={{
-                      backgroundImage: `url('https://lh3.googleusercontent.com/aida-public/AB6AXuCYIPbNVv4i32qsL_v3qe0SIj-Y2uIZUvIPjvsNDPNrlts3D2DFret4qh4yI2IIFgGSXkPd3aTGEWewvfl2eQOsApROjke0dO20F5ei40-rCIPUqTercKtwyA_K50kNRkCTWcVHmejqq9pI-dqICl7sjdGiuD868ri4TwGbR7-IcaKOUBt08s-8SOAqlY2H6glG6dVBImVbaRIj-9O9B6dcA59N3dnYDvTAdbM6hmrb-xs_MUc3wv-s')`,
+                      backgroundImage: `url('https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&h=600&fit=crop&q=80')`,
                     }}
                   />
                   {migrationFlocks.map((flock) => (
@@ -314,7 +314,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                 <img
                   className="w-full h-full object-cover"
                   alt="A Transformed Sanctuary History image"
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuCHI-f_S_2Wk0yPzsGGi7kHKS2ffJjC4cS2-m-hU1nsn0TAIrrUGPU0SyrEmTiq-juLa0vLEQnRPjTnW2lVekdulFhJC8pBOW-DEZj4PEL8tVHi3yiDxGvWHiUF_QOcP5Ul3taz9wBDv2qKlSVV1EBVipAleZC3bdbVNENcMNVsYypmBJVmVFt2kBAl-dO9sNwT_ndwpo8orKNHQxWkiy0Kri_i4Sgt1FDyQ_5VHoVyIJM8YuFyNnWz"
+                  src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&h=1000&fit=crop&q=80"
                 />
                 <div className="absolute bottom-6 left-6 right-6 glass-card p-6 rounded-2xl border border-white/60 shadow-xl">
                   <span className="font-label-caps text-xs text-[#003527] uppercase block mb-1 font-bold">
@@ -382,7 +382,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                 <img
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   alt="Dalmatian Pelican wading through shallow reeds"
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuDSy-9ncBoTMrv4-sF5JuYP3eciNJIDzW5nbOY5oEfKeIfJxX513QKO-c7fOVMiMRd2Wu1990C03loEF06Tur69xA6uJx0qqngjToSbHgDBctbOWrQsD4TvinGPMR4rZ5HI2uDKLEHMVk-aqAhypAwMND73qWjgTz41MhxnC8h_yYNtz9vRyibYmj5iJAPq9MpjTbYh70E_LXeEdU3Ksv66WvLEhnx70UiQjWFuOIMpObnBwHoXV7As"
+                  src="https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop&q=80"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#064e3b]/90 via-[#064e3b]/30 to-transparent" />
                 <div className="absolute bottom-8 left-8 right-8 text-white">
@@ -464,7 +464,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                   <img
                     className="rounded-3xl shadow-lg mb-4 h-64 w-full object-cover"
                     alt="Mineral-rich dark sulfide mud"
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuAHxVAFV2TL_4GBGumJ28xtdtI9wt8FiTcSzbM5jGT_xSCvmuyuRTzNbNO9wOz7PJ7UtAm9QWkkVIEkhg7C2k5lJcllyhUu7ZHS53KLWeo75qrXkw7sMwMGUUnub7g0d45eCK-G6morPbqXkCFTjPHII3S3HqXdkzefeX8aCv10QJHrlAA18-EmKXpWzBeNbs7p5nVinycOXuLNevJqxddalrYClXMszccjFvKHdRTxGI4iMG13NGCh"
+                    src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=600&fit=crop&q=80"
                   />
                   <div className="glass-card p-4 rounded-2xl text-center">
                     <p className="font-label-caps text-xs text-[#003527] font-bold">CURATIVE MUD</p>
@@ -474,7 +474,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                   <img
                     className="rounded-3xl shadow-lg mb-4 h-80 w-full object-cover"
                     alt="Shallow mineral waters"
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuB1sikC89Fvu_aEwMjFJsmHKUEWS2N8D8H_f9iNMtvNGRcJ5ty5hT9M-weowhttiRmXRd6RjOmzVZxzjjsfDjck8UzLAcWm0LCZSMThXUYcRsNeAemfzjcAZpqqu87k40F1Nk03zOSqywte3tD6pAIUz4Ihh3ek8VCfqTqmOaMpsO2N7peS8hy935fLFHb1V0ljh1Frzzd4nE5t0fysS3ID4ru2V9jN94NeH4fkn2h7pNPxNkWhldB5"
+                    src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&h=600&fit=crop&q=80"
                   />
                   <div className="glass-card p-4 rounded-2xl text-center">
                     <p className="font-label-caps text-xs text-[#003527] font-bold">
@@ -528,7 +528,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
               </span>
             </div>
             <p className="font-body-sm text-[#404944] text-xs max-w-xs text-center md:text-left">
-              © 2024 Kumisi Lake Bird Sanctuary. Preserving Georgia's Natural Heritage.
+              © 2025 Kumisi Lake Bird Sanctuary. Preserving Georgia's Natural Heritage.
             </p>
           </div>
 

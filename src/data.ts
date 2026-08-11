@@ -16,7 +16,7 @@ export const INITIAL_BLOG_POSTS: BlogPost[] = [
     Local research teams continue to tag juvenile pelicans to monitor transboundary roosting sites across neighboring wetland reserves.`,
     category: 'Migration Update',
     reads: '1.2k Reads',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDSy-9ncBoTMrv4-sF5JuYP3eciNJIDzW5nbOY5oEfKeIfJxX513QKO-c7fOVMiMRd2Wu1990C03loEF06Tur69xA6uJx0qqngjToSbHgDBctbOWrQsD4TvinGPMR4rZ5HI2uDKLEHMVk-aqAhypAwMND73qWjgTz41MhxnC8h_yYNtz9vRyibYmj5iJAPq9MpjTbYh70E_LXeEdU3Ksv66WvLEhnx70UiQjWFuOIMpObnBwHoXV7As',
+    image: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop&q=80',
     tag: 'Migration Update'
   },
   {
@@ -32,7 +32,7 @@ export const INITIAL_BLOG_POSTS: BlogPost[] = [
     The balancing of freshwater inlet streams with high evaporation rates during autumn produces the sulfur-rich peloid beds long utilized in regional healing traditions. Ongoing research focuses on preserving water intake volume to maintain saline concentration equilibrium.`,
     category: 'Mud Research',
     reads: '980 Reads',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAHxVAFV2TL_4GBGumJ28xtdtI9wt8FiTcSzbM5jGT_xSCvmuyuRTzNbNO9wOz7PJ7UtAm9QWkkVIEkhg7C2k5lJcllyhUu7ZHS53KLWeo75qrXkw7sMwMGUUnub7g0d45eCK-G6morPbqXkCFTjPHII3S3HqXdkzefeX8aCv10QJHrlAA18-EmKXpWzBeNbs7p5nVinycOXuLNevJqxddalrYClXMszccjFvKHdRTxGI4iMG13NGCh',
+    image: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=600&fit=crop&q=80',
     tag: 'Mud Research'
   },
   {
@@ -48,7 +48,7 @@ export const INITIAL_BLOG_POSTS: BlogPost[] = [
     Drone flights are strictly prohibited within 1.5 km of active nesting zones. Guided birding trails are open daily from sunrise to 4:00 PM.`,
     category: 'Community Protection',
     reads: '850 Reads',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCYIPbNVv4i32qsL_v3qe0SIj-Y2uIZUvIPjvsNDPNrlts3D2DFret4qh4yI2IIFgGSXkPd3aTGEWewvfl2eQOsApROjke0dO20F5ei40-rCIPUqTercKtwyA_K50kNRkCTWcVHmejqq9pI-dqICl7sjdGiuD868ri4TwGbR7-IcaKOUBt08s-8SOAqlY2H6glG6dVBImVbaRIj-9O9B6dcA59N3dnYDvTAdbM6hmrb-xs_MUc3wv-s',
+    image: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&h=600&fit=crop&q=80',
     tag: 'Community Protection'
   }
 ];
@@ -58,19 +58,19 @@ export const POPULAR_INSIGHTS = [
     id: 'pop-1',
     title: '5 Benefits of Kumisi Mineral Mud',
     reads: '1.2k Reads',
-    thumbnail: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAHxVAFV2TL_4GBGumJ28xtdtI9wt8FiTcSzbM5jGT_xSCvmuyuRTzNbNO9wOz7PJ7UtAm9QWkkVIEkhg7C2k5lJcllyhUu7ZHS53KLWeo75qrXkw7sMwMGUUnub7g0d45eCK-G6morPbqXkCFTjPHII3S3HqXdkzefeX8aCv10QJHrlAA18-EmKXpWzBeNbs7p5nVinycOXuLNevJqxddalrYClXMszccjFvKHdRTxGI4iMG13NGCh'
+    thumbnail: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=200&h=200&fit=crop&q=80'
   },
   {
     id: 'pop-2',
     title: 'Identifying the Dalmatian Pelican',
     reads: '980 Reads',
-    thumbnail: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDSy-9ncBoTMrv4-sF5JuYP3eciNJIDzW5nbOY5oEfKeIfJxX513QKO-c7fOVMiMRd2Wu1990C03loEF06Tur69xA6uJx0qqngjToSbHgDBctbOWrQsD4TvinGPMR4rZ5HI2uDKLEHMVk-aqAhypAwMND73qWjgTz41MhxnC8h_yYNtz9vRyibYmj5iJAPq9MpjTbYh70E_LXeEdU3Ksv66WvLEhnx70UiQjWFuOIMpObnBwHoXV7As'
+    thumbnail: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=200&h=200&fit=crop&q=80'
   },
   {
     id: 'pop-3',
     title: 'Eco-Tourism: How to Visit Responsibly',
     reads: '850 Reads',
-    thumbnail: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCYIPbNVv4i32qsL_v3qe0SIj-Y2uIZUvIPjvsNDPNrlts3D2DFret4qh4yI2IIFgGSXkPd3aTGEWewvfl2eQOsApROjke0dO20F5ei40-rCIPUqTercKtwyA_K50kNRkCTWcVHmejqq9pI-dqICl7sjdGiuD868ri4TwGbR7-IcaKOUBt08s-8SOAqlY2H6glG6dVBImVbaRIj-9O9B6dcA59N3dnYDvTAdbM6hmrb-xs_MUc3wv-s'
+    thumbnail: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=200&h=200&fit=crop&q=80'
   }
 ];
 
@@ -78,7 +78,7 @@ export const INITIAL_GALLERY_PHOTOS: GalleryPhoto[] = [
   {
     id: 'photo-1',
     title: 'Kingfisher Morning Perch',
-    url: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCLK7pCmgc8KuFXstABYYFewKrjj7qRCDDiCZZRtBap_x445XT_1CoIwSPqJZsa2wSmDebm4wyvKg1OV4dSzzAW_LTLIqPBHvZs2FIiw4V0KiKdJ0bcI8D3yn3-Bpy6MkVmaWKni6rvA6P5zI9pCEXZvbRzc-m_5Fh9ayXkj5q0VvtpL8NVerX6HKoUz7LsBmSbohWvLEZYN_3FLaR29BrslRo9OPrreSgTI81ZjkgcDsgZA3XaV5Dn',
+    url: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop&q=80',
     alt: 'Macro shot of a rare Kingfisher bird perched on a reed at Lake Kumisi with electric blue feathers',
     photographer: 'Tornike L.',
     date: 'Oct 24, 2024',
@@ -88,7 +88,7 @@ export const INITIAL_GALLERY_PHOTOS: GalleryPhoto[] = [
   {
     id: 'photo-2',
     title: 'Kumisi Lake Sunrise Panorama',
-    url: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCYIPbNVv4i32qsL_v3qe0SIj-Y2uIZUvIPjvsNDPNrlts3D2DFret4qh4yI2IIFgGSXkPd3aTGEWewvfl2eQOsApROjke0dO20F5ei40-rCIPUqTercKtwyA_K50kNRkCTWcVHmejqq9pI-dqICl7sjdGiuD868ri4TwGbR7-IcaKOUBt08s-8SOAqlY2H6glG6dVBImVbaRIj-9O9B6dcA59N3dnYDvTAdbM6hmrb-xs_MUc3wv-s',
+    url: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=600&fit=crop&q=80',
     alt: 'Aerial wide shot of Kumisi Lake Sanctuary at sunrise reflecting pink and gold sky',
     photographer: 'Dr. Elene Beridze',
     date: 'Oct 22, 2024',
@@ -98,7 +98,7 @@ export const INITIAL_GALLERY_PHOTOS: GalleryPhoto[] = [
   {
     id: 'photo-3',
     title: 'Dalmatian Pelicans in Shallow Reeds',
-    url: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDSy-9ncBoTMrv4-sF5JuYP3eciNJIDzW5nbOY5oEfKeIfJxX513QKO-c7fOVMiMRd2Wu1990C03loEF06Tur69xA6uJx0qqngjToSbHgDBctbOWrQsD4TvinGPMR4rZ5HI2uDKLEHMVk-aqAhypAwMND73qWjgTz41MhxnC8h_yYNtz9vRyibYmj5iJAPq9MpjTbYh70E_LXeEdU3Ksv66WvLEhnx70UiQjWFuOIMpObnBwHoXV7As',
+    url: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&h=600&fit=crop&q=80',
     alt: 'Dalmatian pelican wading through shallow reeds in Lake Kumisi sanctuary',
     photographer: 'Sanctuary Field Team',
     date: 'Oct 19, 2024',
@@ -108,7 +108,7 @@ export const INITIAL_GALLERY_PHOTOS: GalleryPhoto[] = [
   {
     id: 'photo-4',
     title: 'Therapeutic Sulfide Sediment Bed',
-    url: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAHxVAFV2TL_4GBGumJ28xtdtI9wt8FiTcSzbM5jGT_xSCvmuyuRTzNbNO9wOz7PJ7UtAm9QWkkVIEkhg7C2k5lJcllyhUu7ZHS53KLWeo75qrXkw7sMwMGUUnub7g0d45eCK-G6morPbqXkCFTjPHII3S3HqXdkzefeX8aCv10QJHrlAA18-EmKXpWzBeNbs7p5nVinycOXuLNevJqxddalrYClXMszccjFvKHdRTxGI4iMG13NGCh',
+    url: 'https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&h=600&fit=crop&q=80',
     alt: 'Mineral-rich dark sulfide mud sample from Lake Kumisi',
     photographer: 'Geo-Lab Staff',
     date: 'Oct 15, 2024',

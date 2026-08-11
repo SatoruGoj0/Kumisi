@@ -29,7 +29,7 @@ export const NewEntryModal: React.FC<NewEntryModalProps> = ({ onClose, onAddPost
       content: content || summary || 'Sanctuary update text.',
       category,
       reads: '0 Reads',
-      image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCYIPbNVv4i32qsL_v3qe0SIj-Y2uIZUvIPjvsNDPNrlts3D2DFret4qh4yI2IIFgGSXkPd3aTGEWewvfl2eQOsApROjke0dO20F5ei40-rCIPUqTercKtwyA_K50kNRkCTWcVHmejqq9pI-dqICl7sjdGiuD868ri4TwGbR7-IcaKOUBt08s-8SOAqlY2H6glG6dVBImVbaRIj-9O9B6dcA59N3dnYDvTAdbM6hmrb-xs_MUc3wv-s',
+      image: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&h=600&fit=crop&q=80',
       tag: category,
     };
 
