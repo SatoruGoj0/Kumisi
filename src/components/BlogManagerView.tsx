@@ -49,7 +49,7 @@ export const BlogManagerView: React.FC<BlogManagerViewProps> = ({
         content: draft.content || 'Body text',
         category: draft.category || 'Conservation News',
         reads: '0 Reads',
-        image: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop&q=80',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pelecanus_crispus_at_Bejing_Zoo.JPG/800px-Pelecanus_crispus_at_Bejing_Zoo.JPG',
         tag: draft.tag || 'AI Telemetry',
       };
 

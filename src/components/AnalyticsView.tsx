@@ -68,7 +68,7 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ speciesList, flock
             <div
               className="absolute inset-0 bg-cover bg-center opacity-50 filter contrast-125"
               style={{
-                backgroundImage: `url('https://lh3.googleusercontent.com/aida-public/AB6AXuCYIPbNVv4i32qsL_v3qe0SIj-Y2uIZUvIPjvsNDPNrlts3D2DFret4qh4yI2IIFgGSXkPd3aTGEWewvfl2eQOsApROjke0dO20F5ei40-rCIPUqTercKtwyA_K50kNRkCTWcVHmejqq9pI-dqICl7sjdGiuD868ri4TwGbR7-IcaKOUBt08s-8SOAqlY2H6glG6dVBImVbaRIj-9O9B6dcA59N3dnYDvTAdbM6hmrb-xs_MUc3wv-s')`,
+                backgroundImage: `url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lake_Kumisi_from_air_2018.jpg/800px-Lake_Kumisi_from_air_2018.jpg')`,
               }}
             />
 

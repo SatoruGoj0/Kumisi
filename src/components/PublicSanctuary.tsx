@@ -57,7 +57,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
             <img
               className="w-full h-full object-cover scale-105 transform transition-transform duration-1000"
               alt="Kumisi Lake panoramic dawn view"
-              src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1920&h=1080&fit=crop&q=80"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lake_Kumisi_from_air_2018.jpg/1920px-Lake_Kumisi_from_air_2018.jpg"
             />
             <div className="absolute inset-0 bg-gradient-to-b from-[#003527]/30 via-transparent to-[#f7f9fb]" />
           </div>
@@ -190,17 +190,17 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                     {
                       title: '5 Benefits of Kumisi Mineral Mud',
                       reads: '1.2k Reads',
-                      img: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=200&h=200&fit=crop&q=80',
+                      img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sulfur_mud_bath_-_Tbilisi.jpg/200px-Sulfur_mud_bath_-_Tbilisi.jpg',
                     },
                     {
                       title: 'Identifying the Dalmatian Pelican',
                       reads: '980 Reads',
-                      img: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=200&h=200&fit=crop&q=80',
+                      img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pelecanus_crispus_at_Bejing_Zoo.JPG/200px-Pelecanus_crispus_at_Bejing_Zoo.JPG',
                     },
                     {
                       title: 'Eco-Tourism: How to Visit Responsibly',
                       reads: '850 Reads',
-                      img: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=200&h=200&fit=crop&q=80',
+                      img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alcedo_atthis_-_Riserva_Naturale_di_Macchiatonda.jpg/200px-Alcedo_atthis_-_Riserva_Naturale_di_Macchiatonda.jpg',
                     },
                   ].map((insight, idx) => (
                     <div
@@ -245,7 +245,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                   <div
                     className="absolute inset-0 bg-cover bg-center opacity-40 filter contrast-125 grayscale hover:grayscale-0 transition-all"
                     style={{
-                      backgroundImage: `url('https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&h=600&fit=crop&q=80')`,
+                      backgroundImage: `url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lake_Kumisi_from_air_2018.jpg/800px-Lake_Kumisi_from_air_2018.jpg')`,
                     }}
                   />
                   {migrationFlocks.map((flock) => (
@@ -314,7 +314,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                 <img
                   className="w-full h-full object-cover"
                   alt="A Transformed Sanctuary History image"
-                  src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&h=1000&fit=crop&q=80"
+                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lake_Kumisi_from_air_2018.jpg/800px-Lake_Kumisi_from_air_2018.jpg"
                 />
                 <div className="absolute bottom-6 left-6 right-6 glass-card p-6 rounded-2xl border border-white/60 shadow-xl">
                   <span className="font-label-caps text-xs text-[#003527] uppercase block mb-1 font-bold">
@@ -382,7 +382,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                 <img
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   alt="Dalmatian Pelican wading through shallow reeds"
-                  src="https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop&q=80"
+                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pelecanus_crispus_at_Bejing_Zoo.JPG/800px-Pelecanus_crispus_at_Bejing_Zoo.JPG"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#064e3b]/90 via-[#064e3b]/30 to-transparent" />
                 <div className="absolute bottom-8 left-8 right-8 text-white">
@@ -464,7 +464,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                   <img
                     className="rounded-3xl shadow-lg mb-4 h-64 w-full object-cover"
                     alt="Mineral-rich dark sulfide mud"
-                    src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=600&fit=crop&q=80"
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sulfur_mud_bath_-_Tbilisi.jpg/800px-Sulfur_mud_bath_-_Tbilisi.jpg"
                   />
                   <div className="glass-card p-4 rounded-2xl text-center">
                     <p className="font-label-caps text-xs text-[#003527] font-bold">CURATIVE MUD</p>
@@ -474,7 +474,7 @@ export const PublicSanctuary: React.FC<PublicSanctuaryProps> = ({
                   <img
                     className="rounded-3xl shadow-lg mb-4 h-80 w-full object-cover"
                     alt="Shallow mineral waters"
-                    src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&h=600&fit=crop&q=80"
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lake_Kumisi_from_air_2018.jpg/800px-Lake_Kumisi_from_air_2018.jpg"
                   />
                   <div className="glass-card p-4 rounded-2xl text-center">
                     <p className="font-label-caps text-xs text-[#003527] font-bold">
