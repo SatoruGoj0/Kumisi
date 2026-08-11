@@ -16,7 +16,7 @@ export const INITIAL_BLOG_POSTS: BlogPost[] = [
     Local research teams continue to tag juvenile pelicans to monitor transboundary roosting sites across neighboring wetland reserves.`,
     category: 'Migration Update',
     reads: '1.2k Reads',
-    image: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop&q=80',
+    image: './assets/ruddy-shelduck-kumisi.jpg',
     tag: 'Migration Update'
   },
   {
