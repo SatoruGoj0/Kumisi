@@ -16,7 +16,7 @@ export const INITIAL_BLOG_POSTS: BlogPost[] = [
     Local research teams continue to tag juvenile pelicans to monitor transboundary roosting sites across neighboring wetland reserves.`,
     category: 'Migration Update',
     reads: '1.2k Reads',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pelecanus_crispus_at_Bejing_Zoo.JPG/800px-Pelecanus_crispus_at_Bejing_Zoo.JPG',
+    image: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop&q=80',
     tag: 'Migration Update'
   },
   {
@@ -32,7 +32,7 @@ export const INITIAL_BLOG_POSTS: BlogPost[] = [
     The balancing of freshwater inlet streams with high evaporation rates during autumn produces the sulfur-rich peloid beds long utilized in regional healing traditions. Ongoing research focuses on preserving water intake volume to maintain saline concentration equilibrium.`,
     category: 'Mud Research',
     reads: '980 Reads',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sulfur_mud_bath_-_Tbilisi.jpg/800px-Sulfur_mud_bath_-_Tbilisi.jpg',
+    image: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=600&fit=crop&q=80',
     tag: 'Mud Research'
   },
   {
@@ -48,7 +48,7 @@ export const INITIAL_BLOG_POSTS: BlogPost[] = [
     Drone flights are strictly prohibited within 1.5 km of active nesting zones. Guided birding trails are open daily from sunrise to 4:00 PM.`,
     category: 'Community Protection',
     reads: '850 Reads',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alcedo_atthis_-_Riserva_Naturale_di_Macchiatonda.jpg/800px-Alcedo_atthis_-_Riserva_Naturale_di_Macchiatonda.jpg',
+    image: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&h=600&fit=crop&q=80',
     tag: 'Community Protection'
   }
 ];
@@ -58,19 +58,19 @@ export const POPULAR_INSIGHTS = [
     id: 'pop-1',
     title: '5 Benefits of Kumisi Mineral Mud',
     reads: '1.2k Reads',
-    thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sulfur_mud_bath_-_Tbilisi.jpg/200px-Sulfur_mud_bath_-_Tbilisi.jpg'
+    thumbnail: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=200&h=200&fit=crop&q=80'
   },
   {
     id: 'pop-2',
     title: 'Identifying the Dalmatian Pelican',
     reads: '980 Reads',
-    thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pelecanus_crispus_at_Bejing_Zoo.JPG/200px-Pelecanus_crispus_at_Bejing_Zoo.JPG'
+    thumbnail: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=200&h=200&fit=crop&q=80'
   },
   {
     id: 'pop-3',
     title: 'Eco-Tourism: How to Visit Responsibly',
     reads: '850 Reads',
-    thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alcedo_atthis_-_Riserva_Naturale_di_Macchiatonda.jpg/200px-Alcedo_atthis_-_Riserva_Naturale_di_Macchiatonda.jpg'
+    thumbnail: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=200&h=200&fit=crop&q=80'
   }
 ];
 
@@ -78,7 +78,7 @@ export const INITIAL_GALLERY_PHOTOS: GalleryPhoto[] = [
   {
     id: 'photo-1',
     title: 'Kingfisher Morning Perch',
-    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alcedo_atthis_-_Riserva_Naturale_di_Macchiatonda.jpg/800px-Alcedo_atthis_-_Riserva_Naturale_di_Macchiatonda.jpg',
+    url: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&h=600&fit=crop&q=80',
     alt: 'Common Kingfisher (Alcedo atthis) perched on a branch at Lake Kumisi wetlands',
     photographer: 'Tornike L.',
     date: 'Oct 24, 2024',
@@ -88,7 +88,7 @@ export const INITIAL_GALLERY_PHOTOS: GalleryPhoto[] = [
   {
     id: 'photo-2',
     title: 'Kumisi Lake Aerial View',
-    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lake_Kumisi_from_air_2018.jpg/800px-Lake_Kumisi_from_air_2018.jpg',
+    url: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=600&fit=crop&q=80',
     alt: 'Aerial view of Lake Kumisi wetland sanctuary in Georgia showing reed beds and shallow waters',
     photographer: 'Dr. Elene Beridze',
     date: 'Oct 22, 2024',
@@ -98,7 +98,7 @@ export const INITIAL_GALLERY_PHOTOS: GalleryPhoto[] = [
   {
     id: 'photo-3',
     title: 'Dalmatian Pelicans at Kumisi',
-    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pelecanus_crispus_at_Bejing_Zoo.JPG/800px-Pelecanus_crispus_at_Bejing_Zoo.JPG',
+    url: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800&h=600&fit=crop&q=80',
     alt: 'Dalmatian Pelican (Pelecanus crispus) - the flagship migratory species of Lake Kumisi',
     photographer: 'Sanctuary Field Team',
     date: 'Oct 19, 2024',
@@ -108,7 +108,7 @@ export const INITIAL_GALLERY_PHOTOS: GalleryPhoto[] = [
   {
     id: 'photo-4',
     title: 'Therapeutic Sulfide Sediment',
-    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sulfur_mud_bath_-_Tbilisi.jpg/800px-Sulfur_mud_bath_-_Tbilisi.jpg',
+    url: 'https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&h=600&fit=crop&q=80',
     alt: 'Mineral-rich dark sulfide mud sample from Lake Kumisi used in balneological therapy',
     photographer: 'Geo-Lab Staff',
     date: 'Oct 15, 2024',

@@ -145,7 +145,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           <img
             className="w-full h-full object-cover"
             alt="Sanctuary staff portrait"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pelecanus_crispus_at_Bejing_Zoo.JPG/200px-Pelecanus_crispus_at_Bejing_Zoo.JPG"
+            src="https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=200&h=200&fit=crop&q=80"
           />
         </div>
         <div className="flex-1 min-w-0">

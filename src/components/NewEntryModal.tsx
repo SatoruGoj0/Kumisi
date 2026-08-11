@@ -29,7 +29,7 @@ export const NewEntryModal: React.FC<NewEntryModalProps> = ({ onClose, onAddPost
       content: content || summary || 'Sanctuary update text.',
       category,
       reads: '0 Reads',
-      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alcedo_atthis_-_Riserva_Naturale_di_Macchiatonda.jpg/800px-Alcedo_atthis_-_Riserva_Naturale_di_Macchiatonda.jpg',
+      image: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&h=600&fit=crop&q=80',
       tag: category,
     };
 

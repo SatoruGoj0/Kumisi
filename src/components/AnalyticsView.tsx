@@ -68,7 +68,7 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ speciesList, flock
             <div
               className="absolute inset-0 bg-cover bg-center opacity-50 filter contrast-125"
               style={{
-                backgroundImage: `url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lake_Kumisi_from_air_2018.jpg/800px-Lake_Kumisi_from_air_2018.jpg')`,
+                backgroundImage: `url('https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=600&fit=crop&q=80')`,
               }}
             />
 
